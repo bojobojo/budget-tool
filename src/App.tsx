@@ -17,9 +17,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1>this is the test of my personal website</h1>
+         
         </a>
+       
       </header>
+      <h1>this is the test of my personal website</h1>
     </div>
   );
 }

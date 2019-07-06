@@ -8,13 +8,12 @@ interface Todo {
   title: string;
 }
 function App() {
-  const [data, setData] = useState<Todo>({ complete: true, id: 1, userId: 1, title:'empty'});
+  const [data, setData] = useState<Todo[]>([{ complete: true, id: 1, userId: 1, title:'empty'}]);
   useEffect(() => {
-    fetch('https://jsonplaceholder.typicode.com/todos/1')
+    fetch('https://jsonplaceholder.typicode.com/todos/')
       .then(response => response.json())
       .then(json => setData(json))
     return () => {
-
     };
   }, [])
   return (
@@ -35,7 +34,9 @@ function App() {
         </a>
 
       </header>
-      <h1>{data.title}</h1>
+      {data.map(todo => {
+        return <h5>{todo.title}</h5>
+      })}
     </div>
   );
 }

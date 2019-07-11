@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/testgitpage/static/css/main.f077ae56.chunk.css",
-    "main.js": "/testgitpage/static/js/main.37b06d20.chunk.js",
-    "main.js.map": "/testgitpage/static/js/main.37b06d20.chunk.js.map",
-    "runtime~main.js": "/testgitpage/static/js/runtime~main.795d7f76.js",
-    "runtime~main.js.map": "/testgitpage/static/js/runtime~main.795d7f76.js.map",
-    "static/css/2.ddced1d9.chunk.css": "/testgitpage/static/css/2.ddced1d9.chunk.css",
-    "static/js/2.89f8f1f2.chunk.js": "/testgitpage/static/js/2.89f8f1f2.chunk.js",
-    "static/js/2.89f8f1f2.chunk.js.map": "/testgitpage/static/js/2.89f8f1f2.chunk.js.map",
-    "index.html": "/testgitpage/index.html",
-    "precache-manifest.b6008fba8ac2d28e780a1fe3e3285b6f.js": "/testgitpage/precache-manifest.b6008fba8ac2d28e780a1fe3e3285b6f.js",
-    "service-worker.js": "/testgitpage/service-worker.js",
-    "static/css/2.ddced1d9.chunk.css.map": "/testgitpage/static/css/2.ddced1d9.chunk.css.map",
-    "static/css/main.f077ae56.chunk.css.map": "/testgitpage/static/css/main.f077ae56.chunk.css.map"
+    "main.css": "/budget-tool/static/css/main.f077ae56.chunk.css",
+    "main.js": "/budget-tool/static/js/main.b3972014.chunk.js",
+    "main.js.map": "/budget-tool/static/js/main.b3972014.chunk.js.map",
+    "runtime~main.js": "/budget-tool/static/js/runtime~main.8a369c0e.js",
+    "runtime~main.js.map": "/budget-tool/static/js/runtime~main.8a369c0e.js.map",
+    "static/css/2.ddced1d9.chunk.css": "/budget-tool/static/css/2.ddced1d9.chunk.css",
+    "static/js/2.bd071afd.chunk.js": "/budget-tool/static/js/2.bd071afd.chunk.js",
+    "static/js/2.bd071afd.chunk.js.map": "/budget-tool/static/js/2.bd071afd.chunk.js.map",
+    "index.html": "/budget-tool/index.html",
+    "precache-manifest.a3b18b1aca5c52cfbe3c04f2c4986339.js": "/budget-tool/precache-manifest.a3b18b1aca5c52cfbe3c04f2c4986339.js",
+    "service-worker.js": "/budget-tool/service-worker.js",
+    "static/css/2.ddced1d9.chunk.css.map": "/budget-tool/static/css/2.ddced1d9.chunk.css.map",
+    "static/css/main.f077ae56.chunk.css.map": "/budget-tool/static/css/main.f077ae56.chunk.css.map"
   }
 }

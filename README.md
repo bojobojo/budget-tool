@@ -1,62 +1,68 @@
-Budget-Dashboard
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It is a budget dashboard application for dealing with the spending and budgeting.
+## Available Scripts
 
-Build with REACT-TS 
+In the project directory, you can run:
 
-<p align="center">
-  <img src="https://github.com/759445684/Budget-Dashboard/blob/master/budget-app.png" width="500" title="Github Logo">
-</p>
-<p align="center">
-  <img src="https://github.com/759445684/Budget-Dashboard/blob/master/budget-app-mobile1.png" width="50%" title="Github Logo">
-      <img align="center" src="https://github.com/759445684/Budget-Dashboard/blob/master/budget-app-mobile2.png" width="50%" title="Github Logo">
+### `npm start`
 
-</p>
- 
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-</p>
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-Installation
+### `npm test`
 
-    npm install
-    npm start
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Next Step
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
-Based on Function Part
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Add User Authentication and register page
-  - Log in with social media
-- Add Category Management Section
-  - Simple CRUD for the category
-  - Draggable Color to set the color tag for the category
-- Expend Chart Board
-  - A Line Chart of spending and income of each month in given year
-- Expend Detail Board
-  - Add spending and budgeting  summary of select month
-  - Modify Modal
-- Add Theme & Setting
-  - Change the theme (day, night)
-  - Thinking.. ...
-  
+### `npm run eject`
 
-Improvement on the code
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-- To integrate the immutable.js
-- To implement draggable component from scratch
-- Optimizing the state management
-  
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contributing 
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Feel free to fork my project and please join me.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-License
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-MIT
+### Code Splitting
 
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

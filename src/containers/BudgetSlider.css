@@ -1,0 +1,74 @@
+.slidecontainer {
+    width: 100%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 7px;
+    background: rgba(0, 136, 255, 0.897);
+    border-radius: 1em;
+    outline: none;
+    opacity: 0.8;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+  position: relative;
+  /* 設為相對位置，為了前後區塊的絕對位置而設定 */
+  width:18px;
+  height:18px;
+  /* background:rgb(153, 102, 255,0.9);
+   */
+   background:rgb(20, 27, 34);
+  
+  border-radius:50%;
+  transition:.2s;
+  opacity: 1;
+  cursor: pointer;
+}
+input[type="range"]:active::-webkit-slider-thumb:before,
+input[type="range"]:active::-webkit-slider-thumb:after {
+    top: 6px;
+}
+
+input[type="range"]:active::-webkit-slider-thumb {
+    width: 22px;
+    height: 22px;
+}
+
+input[type="range"]:active::-webkit-slider-thumb:after {
+    left: 16px;
+}
+
+.slider::-moz-range-thumb {
+    width: 10px;
+    height: 10px;
+    background: rgba(255, 34, 34, 0.9);
+    cursor: pointer;
+}
+input[type="range"]::-webkit-slider-thumb:before,
+input[type="range"]::-webkit-slider-thumb:after
+{
+  position: absolute;
+  width: 20000px;
+  top: 3px;     /* 長度很長沒關係，因為剛剛有用 overflow:hidden 了 */
+  height: 4px;
+  content:"";
+  pointer-events: none;   /* 讓滑鼠可以點擊穿透偽元素，不然會點不到下面 */
+  transition:.2s;
+}
+
+
+
+
+/* 
+ */
+
+

@@ -1,0 +1,13 @@
+span {
+    content: "\0024";
+}
+
+.total-board {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+.f0 {
+    font-size: 2.6em;
+}

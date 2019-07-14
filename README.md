@@ -1,15 +1,16 @@
 Budget-Dashboard
 
-It is a budget dashboard application for dealing with the spending and budgeting.
+It is a budget dashboard application for dealing with the spending and budgeting. Build with React, Typescript, Firebase and Tachyons.css.
 
-Build with REACT-TS 
+Please check online live demo [here](https://759445684.github.io/budget-tool/).
+
 
 <p align="center">
-  <img src="https://github.com/759445684/Budget-Dashboard/blob/master/budget-app.png" width="500" title="Github Logo">
+  <img src="https://github.com/759445684/budget-tool/blob/master/budget-app.png" width="500" title="Github Logo">
 </p>
 <p align="center">
-  <img src="https://github.com/759445684/Budget-Dashboard/blob/master/budget-app-mobile1.png" width="50%" title="Github Logo">
-      <img align="center" src="https://github.com/759445684/Budget-Dashboard/blob/master/budget-app-mobile2.png" width="50%" title="Github Logo">
+  <img src="https://github.com/759445684/budget-tool/blob/master/budget-app-mobile1.png" width="50%" title="Github Logo">
+      <img align="center" src="https://github.com/759445684/budget-tool/blob/master/budget-app-mobile2.png" width="50%" title="Github Logo">
 
 </p>
  

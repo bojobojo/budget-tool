@@ -4,6 +4,9 @@ It is a budget dashboard application for dealing with the spending and budgeting
 
 Please check online live demo [here](https://759445684.github.io/budget-tool/).
 
+<p align="center">
+  <img src="https://github.com/759445684/budget-tool/blob/master/Application-Structure.png" width="900" title="Github Logo">
+</p>
 
 <p align="center">
   <img src="https://github.com/759445684/budget-tool/blob/master/budget-app.png" width="500" title="Github Logo">
